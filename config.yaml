@@ -1,0 +1,6 @@
+embedding_dim: 128
+radius: 6
+ratio: 4
+batch_size: 256
+num_epochs: 10
+save_checkpoint: true  
